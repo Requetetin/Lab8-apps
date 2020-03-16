@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab8</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="UserEdit">Insert GitHub user</string>
+    <string name="next">See Repositories</string>
+    <string name="Search">Search</string>
+</resources>
